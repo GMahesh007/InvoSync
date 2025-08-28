@@ -2,7 +2,7 @@
 Powered By Finkraft.ai
 
 <div align="center">
-  <h3>🏆 Hackathon Round 2 Submission</h3>
+  <h3>🏆 Hackathon Round </h3>
   <p>A full-stack web application for automated invoice downloading, parsing, and management</p>
   
   ![License](https://img.shields.io/badge/license-MIT-blue.svg)
