@@ -96,6 +96,35 @@ Make sure you have the following installed:
 - **npm** (v8 or higher)
 - **Git**
 
-### Installation
 
-1. **Clone the repository**
+---
+
+## 💻 Usage
+
+### Step-by-Step Workflow
+
+1. **View Passenger Records**
+   - Navigate to the "Passenger Records" tab
+   - See all passenger data with initial "Pending" status
+
+2. **Download Invoices**
+   - Click "Download Invoice" for each passenger
+   - Status updates to "Success", "Not Found", or "Error"
+   - PDFs are saved locally and accessible via "Open PDF"
+
+3. **Parse Invoices**
+   - Click "Parse Invoice" (only enabled after successful download)
+   - System extracts key data from PDFs
+   - Parsed invoices appear in the "Parsed Invoices" tab
+
+4. **Manage Invoices**
+   - View all parsed invoices in a structured table
+   - Flag invoices for review using checkboxes
+   - Access PDFs directly from the dashboard
+
+5. **View Analytics**
+   - Monitor total invoices and amounts in summary cards
+   - Track airline-wise breakdowns
+   - Identify high-value invoices
+
+---
